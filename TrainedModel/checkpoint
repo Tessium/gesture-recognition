@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\ThunderBird\\Desktop\\Projects\\Jupyter\\another_proj\\TrainedModel\\customModel.tfl"
+all_model_checkpoint_paths: "C:\\Users\\ThunderBird\\Desktop\\Projects\\Jupyter\\another_proj\\TrainedModel\\customModel.tfl"
